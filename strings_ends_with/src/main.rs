@@ -1,0 +1,13 @@
+fn solution(word: &str, ending: &str) -> bool {
+    word.ends_with(ending)
+}
+
+fn main() {
+    solution("abc", "c");
+}
+
+#[test]
+fn returns_expected() {
+    assert_eq!(true, solution("abc", "c"));
+    assert_eq!(false, solution("strawberry", "banana"));
+}
