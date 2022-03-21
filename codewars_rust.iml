@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUST_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/strings_ends_with/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/replace_with_alphabet_position/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/are_you_playing_banjo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/remove_string_spaces/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/returning_strings/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sum_of_positive/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lost_without_a_map/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/regex_validate_pin_code/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/third_angle_of_a_triangle/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mumbling/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/highest_and_lowest/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ones_and_zeros/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build_a_square/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/evens_and_odds/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exes_and_ohs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/find_the_nth_digit_of_a_number/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/love_vs_friendship/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nth_smallest_element/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/number_of_decimal_digits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reverse_words/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simple_consecutive_pairs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/special_number/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/string_drills_repeater/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sum_of_angles/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sum_of_cubes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/to_leet_speak/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/valid_spacing/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/strings_ends_with/target" />
+      <excludeFolder url="file://$MODULE_DIR$/replace_with_alphabet_position/target" />
+      <excludeFolder url="file://$MODULE_DIR$/are_you_playing_banjo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/sum_of_positive/target" />
+      <excludeFolder url="file://$MODULE_DIR$/remove_string_spaces/target" />
+      <excludeFolder url="file://$MODULE_DIR$/returning_strings/target" />
+      <excludeFolder url="file://$MODULE_DIR$/lost_without_a_map/target" />
+      <excludeFolder url="file://$MODULE_DIR$/third_angle_of_a_triangle/target" />
+      <excludeFolder url="file://$MODULE_DIR$/regex_validate_pin_code/target" />
+      <excludeFolder url="file://$MODULE_DIR$/mumbling/target" />
+      <excludeFolder url="file://$MODULE_DIR$/highest_and_lowest/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ones_and_zeros/target" />
+      <excludeFolder url="file://$MODULE_DIR$/string_drills_repeater/target" />
+      <excludeFolder url="file://$MODULE_DIR$/number_of_decimal_digits/target" />
+      <excludeFolder url="file://$MODULE_DIR$/build_a_square/target" />
+      <excludeFolder url="file://$MODULE_DIR$/sum_of_cubes/target" />
+      <excludeFolder url="file://$MODULE_DIR$/simple_consecutive_pairs/target" />
+      <excludeFolder url="file://$MODULE_DIR$/exes_and_ohs/target" />
+      <excludeFolder url="file://$MODULE_DIR$/love_vs_friendship/target" />
+      <excludeFolder url="file://$MODULE_DIR$/reverse_words/target" />
+      <excludeFolder url="file://$MODULE_DIR$/sum_of_angles/target" />
+      <excludeFolder url="file://$MODULE_DIR$/special_number/target" />
+      <excludeFolder url="file://$MODULE_DIR$/evens_and_odds/target" />
+      <excludeFolder url="file://$MODULE_DIR$/nth_smallest_element/target" />
+      <excludeFolder url="file://$MODULE_DIR$/valid_spacing/target" />
+      <excludeFolder url="file://$MODULE_DIR$/find_the_nth_digit_of_a_number/target" />
+      <excludeFolder url="file://$MODULE_DIR$/to_leet_speak/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
