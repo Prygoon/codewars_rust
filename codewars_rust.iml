@@ -31,6 +31,29 @@
       <sourceFolder url="file://$MODULE_DIR$/sum_of_cubes/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/to_leet_speak/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/valid_spacing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cafeteria/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/multiplication_table/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/new_cashier_does_not_know_about_space_or _shift/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/playing_with_digits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tank_truck/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/array_diff/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/break_camelcase/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build_pile_of_cubes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/counting_sheep/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/delete_occurrences_of_an_element_if_it_occurs_more_than_n_times/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/esolang_minibitmove/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/growth_of_a_population/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/how_much/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/integers_recreation_two/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/l1_set_alarm/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ledderboard_climbers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/number_of_people_in_the_bus/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simple_reversed_parenthesis/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sum_of_odd_numbers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/switch_it_up/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tribonacci_sequence/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/up_and_down/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vowel_count/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/strings_ends_with/target" />
       <excludeFolder url="file://$MODULE_DIR$/replace_with_alphabet_position/target" />
@@ -59,6 +82,29 @@
       <excludeFolder url="file://$MODULE_DIR$/valid_spacing/target" />
       <excludeFolder url="file://$MODULE_DIR$/find_the_nth_digit_of_a_number/target" />
       <excludeFolder url="file://$MODULE_DIR$/to_leet_speak/target" />
+      <excludeFolder url="file://$MODULE_DIR$/new_cashier_does_not_know_about_space_or _shift/target" />
+      <excludeFolder url="file://$MODULE_DIR$/cafeteria/target" />
+      <excludeFolder url="file://$MODULE_DIR$/playing_with_digits/target" />
+      <excludeFolder url="file://$MODULE_DIR$/tank_truck/target" />
+      <excludeFolder url="file://$MODULE_DIR$/multiplication_table/target" />
+      <excludeFolder url="file://$MODULE_DIR$/tribonacci_sequence/target" />
+      <excludeFolder url="file://$MODULE_DIR$/break_camelcase/target" />
+      <excludeFolder url="file://$MODULE_DIR$/delete_occurrences_of_an_element_if_it_occurs_more_than_n_times/target" />
+      <excludeFolder url="file://$MODULE_DIR$/how_much/target" />
+      <excludeFolder url="file://$MODULE_DIR$/simple_reversed_parenthesis/target" />
+      <excludeFolder url="file://$MODULE_DIR$/up_and_down/target" />
+      <excludeFolder url="file://$MODULE_DIR$/build_pile_of_cubes/target" />
+      <excludeFolder url="file://$MODULE_DIR$/sum_of_odd_numbers/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ledderboard_climbers/target" />
+      <excludeFolder url="file://$MODULE_DIR$/counting_sheep/target" />
+      <excludeFolder url="file://$MODULE_DIR$/growth_of_a_population/target" />
+      <excludeFolder url="file://$MODULE_DIR$/l1_set_alarm/target" />
+      <excludeFolder url="file://$MODULE_DIR$/switch_it_up/target" />
+      <excludeFolder url="file://$MODULE_DIR$/array_diff/target" />
+      <excludeFolder url="file://$MODULE_DIR$/number_of_people_in_the_bus/target" />
+      <excludeFolder url="file://$MODULE_DIR$/esolang_minibitmove/target" />
+      <excludeFolder url="file://$MODULE_DIR$/vowel_count/target" />
+      <excludeFolder url="file://$MODULE_DIR$/integers_recreation_two/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
