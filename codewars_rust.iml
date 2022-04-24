@@ -54,14 +54,6 @@
       <sourceFolder url="file://$MODULE_DIR$/tribonacci_sequence/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/up_and_down/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vowel_count/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/rot13/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/two_to_one/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/alternating_case/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/calculate_average/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/opposite_number/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/reduce_but_grow/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/will_there_be_enough_space/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/will_you_make_it/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/strings_ends_with/target" />
       <excludeFolder url="file://$MODULE_DIR$/replace_with_alphabet_position/target" />
@@ -113,14 +105,6 @@
       <excludeFolder url="file://$MODULE_DIR$/esolang_minibitmove/target" />
       <excludeFolder url="file://$MODULE_DIR$/vowel_count/target" />
       <excludeFolder url="file://$MODULE_DIR$/integers_recreation_two/target" />
-      <excludeFolder url="file://$MODULE_DIR$/rot13/target" />
-      <excludeFolder url="file://$MODULE_DIR$/two_to_one/target" />
-      <excludeFolder url="file://$MODULE_DIR$/reduce_but_grow/target" />
-      <excludeFolder url="file://$MODULE_DIR$/will_there_be_enough_space/target" />
-      <excludeFolder url="file://$MODULE_DIR$/opposite_number/target" />
-      <excludeFolder url="file://$MODULE_DIR$/alternating_case/target" />
-      <excludeFolder url="file://$MODULE_DIR$/calculate_average/target" />
-      <excludeFolder url="file://$MODULE_DIR$/will_you_make_it/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

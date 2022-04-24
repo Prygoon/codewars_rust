@@ -3,7 +3,7 @@ fn main() {
 }
 
 fn greet() -> &'static str {
-    return "hello world!"
+    "hello world!"
 }
 
 #[cfg(test)]
