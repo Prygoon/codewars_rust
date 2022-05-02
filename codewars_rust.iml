@@ -54,6 +54,15 @@
       <sourceFolder url="file://$MODULE_DIR$/tribonacci_sequence/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/up_and_down/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vowel_count/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/convert_a_string_to_a_number/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/descending_order/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/form_the_minimum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/function_2_squaring_an_argument/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grasshopper_summation/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/round_up_to_the_next_multiple_of_5/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/convert_number_to_reversed_array_of_digits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/find_the_middle_element/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/сonvert_number_to_reversed_array_of_digits/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/strings_ends_with/target" />
       <excludeFolder url="file://$MODULE_DIR$/replace_with_alphabet_position/target" />
@@ -105,6 +114,15 @@
       <excludeFolder url="file://$MODULE_DIR$/esolang_minibitmove/target" />
       <excludeFolder url="file://$MODULE_DIR$/vowel_count/target" />
       <excludeFolder url="file://$MODULE_DIR$/integers_recreation_two/target" />
+      <excludeFolder url="file://$MODULE_DIR$/function_2_squaring_an_argument/target" />
+      <excludeFolder url="file://$MODULE_DIR$/descending_order/target" />
+      <excludeFolder url="file://$MODULE_DIR$/round_up_to_the_next_multiple_of_5/target" />
+      <excludeFolder url="file://$MODULE_DIR$/grasshopper_summation/target" />
+      <excludeFolder url="file://$MODULE_DIR$/form_the_minimum/target" />
+      <excludeFolder url="file://$MODULE_DIR$/convert_a_string_to_a_number/target" />
+      <excludeFolder url="file://$MODULE_DIR$/find_the_middle_element/target" />
+      <excludeFolder url="file://$MODULE_DIR$/сonvert_number_to_reversed_array_of_digits/target" />
+      <excludeFolder url="file://$MODULE_DIR$/convert_number_to_reversed_array_of_digits/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
